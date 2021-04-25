@@ -1,2 +1,1 @@
-apache-airflow[pyspark, hive]
 azure-storage-blob
